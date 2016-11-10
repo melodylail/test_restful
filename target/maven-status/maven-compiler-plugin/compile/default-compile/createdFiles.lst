@@ -1,0 +1,8 @@
+com\rest\test\Response.class
+com\rest\test\Request.class
+com\rest\test\App.class
+com\rest\test\Track.class
+com\rest\test\QueryGet.class
+com\rest\test\JerseyClient.class
+com\rest\test\EntryPoint.class
+com\rest\test\Query.class
